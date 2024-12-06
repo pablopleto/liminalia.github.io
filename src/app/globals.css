@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.titulo {
+    background-color: crimson;
+    color: blanchedalmond;
+}

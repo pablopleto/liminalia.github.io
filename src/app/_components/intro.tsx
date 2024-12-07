@@ -4,8 +4,8 @@ export function Intro() {
   return (
     <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
       <h1 className="text-5xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">
-        <div className="titulo">LIMINALIA</div> <img src="public/assets/blog/images/1.gif" alt="gif" />
-      </h1> <img src="/assets/blog/images/1.gif" alt="Liminalia" />
+        <div className="titulo">LIMINALIA</div> 
+      </h1> <img src="/assets/blog/images/1.gif" alt="Liminalia" width={125} height={125}/>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         MEMES{" "}
         <a

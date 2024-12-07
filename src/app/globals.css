@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 .titulo {
-    background-color: crimson;
-    color: blanchedalmond;
+    background-color: #FF0000;
+    color: white;
+    border-radius: 10px;
+    padding: 7px;
 }

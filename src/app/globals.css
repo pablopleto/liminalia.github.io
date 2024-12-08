@@ -7,4 +7,29 @@
     color: white;
     border-radius: 10px;
     padding: 7px;
+    opacity: 0; 
+    animation: fadeIn 1s ease-in forwards;
+    animation-delay: 0.5s; 
+    animation: slideDown 2s ease-in-out; /* Duración y tipo de animación */
+    opacity: 0; /* Asegúrate de que comience invisible */
+    animation-fill-mode: forwards; /* Mantiene el estado final */
+}
+
+@keyframes slideDown {
+    0% {
+      transform: translateY(-50%); /* Empieza fuera de la vista, por encima */
+      opacity: 0; /* Invisible al inicio */
+    }
+    100% {
+      transform: translateY(0); /* Posición original */
+      opacity: 1; /* Totalmente visible */
+    }
+  }
+@keyframes fadeIn {
+    0% {
+        opacity: 0; /* Comienza invisible */
+    }
+    100% {
+        opacity: 1; /* Termina visible */
+    }
 }

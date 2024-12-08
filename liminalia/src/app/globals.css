@@ -19,3 +19,12 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@keyframes fadeIn {
+  0% {
+      opacity: 0; /* Comienza invisible */
+  }
+  100% {
+      opacity: 1; /* Termina visible */
+  }
+}

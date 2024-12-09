@@ -7,14 +7,14 @@ export function Intro() {
         <div className="titulo">LIMINALIA</div> 
       </h1> <img src="/assets/blog/images/1.gif" alt="Liminalia" width={125} height={125}/>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        MEMES{" "}
+        {" "}
         <a
           href="https://www.instagram.com/liminalia_/"
           className="underline hover:text-blue-600 duration-200 transition-colors"
         >
-         TULA
+       
         </a>{" "}
-        Y DIVERSION
+       
       </h4>
     </section>
   );

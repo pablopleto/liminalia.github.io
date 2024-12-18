@@ -6,7 +6,7 @@ export function Footer() {
     <footer className="bg-neutral-50 border-t border-neutral-200 dark:bg-slate-800 bg-[url('/assets/blog/images/footer1.png')] bg-cover bg-center ">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center ">
-          <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
+          <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center font-custom lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             HOLA
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2 ">
@@ -24,7 +24,7 @@ export function Footer() {
             </a>
           </div>
           <div>
-            <iframe  src="https://open.spotify.com/embed/playlist/5tHLi307wjZY2ePmVQSgkG?utm_source=generator" width="100%" height="352" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+            <iframe  src="https://open.spotify.com/embed/playlist/5tHLi307wjZY2ePmVQSgkG?utm_source=generator"></iframe></div>
         </div>
       </Container>
     </footer>

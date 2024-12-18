@@ -33,3 +33,22 @@
         opacity: 1; /* Termina visible */
     }
 }
+
+@font-face {
+  font-family: 'hoefler';
+  src: url('/assets/blog/fonts/ufonts.com_hoefler-text-black-italic.ttf') format('ttf');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Impact';
+  src: url('/assets/blog/fonts/Impact.ttf') format('ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+.text-border {
+  -webkit-text-stroke: 2px black; /* Borde de 2px de color negro */
+  color: white;
+}

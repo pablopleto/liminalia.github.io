@@ -10,8 +10,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+  title: `${CMS_NAME}`,
+  description: ` repositorio.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
@@ -48,7 +48,7 @@ export default function RootLayout({
           href="/favicon/safari-pinned-tab.svg"
           color="#000000"
         />
-        <link rel="shortcut icon" href="/favicon/favicon.ico" />
+        <link rel="shortcut icon" href="/favicon/favicon.svg" />
         <meta name="msapplication-TileColor" content="#000000" />
         <meta
           name="msapplication-config"

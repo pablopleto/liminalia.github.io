@@ -1,7 +1,8 @@
-import type { NextConfig } from "next";
+import { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: "export", // Configuración necesaria para exportar como sitio estático
+  trailingSlash: true, // Agrega una barra diagonal al final de las URLs para exportaciones estáticas
 };
 
 export default nextConfig;

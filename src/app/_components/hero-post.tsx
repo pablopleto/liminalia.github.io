@@ -70,7 +70,7 @@ El significado de la palabra ha mutado desde el siglo XX hasta la actualidad; ho
 
       </div>
       <p className="text-xs italic">(1.)</p>
-      <p className="text-sm mb-4 italic">Se refiere a aquellas personas que pasan una cantidad significativa de tiempo en internet, al punto de que su personalidad gira en torno a los memes, la cultura y el léxico de internet.. Keyhole. (n.d.). Chronically Online: What does it mean? Keyhole. <a className="text-#ff0000" href="https://keyhole.co/social-media-glossary/chronically-online/">https://keyhole.co/social-media-glossary/chronically-online/</a>
+      <p className="text-sm mb-4 italic"> Se refiere a aquellas personas que pasan una cantidad significativa de tiempo en internet, al punto de que su personalidad gira en torno a los memes, la cultura y el léxico de internet.. Keyhole. (n.d.). Chronically Online: What does it mean? Keyhole. <a className="text-#ff0000" href="https://keyhole.co/social-media-glossary/chronically-online/">https://keyhole.co/social-media-glossary/chronically-online/</a>
 
 </p>
     </section>

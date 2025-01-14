@@ -6,7 +6,7 @@ export function Footer() {
     <footer className="bg-neutral-50 border-t border-neutral-200 dark:bg-slate-800 bg-[url('/assets/blog/images/footer1.png')] bg-cover bg-center ">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center ">
-          <h3 className="text-1xl lg:text-[2rem] rounded-8 font-bold tracking-tighter bg-[#FF0000] text-white leading-tight text-center font-custom lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
+          <h3 className="text-1xl lg:text-[2rem] rounded tracking-tighter bg-[#FF0000] text-white leading-tight text-center font-custom lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             Por Rosario Bonnefoy y Pablo Bertolotto. 
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2 ">

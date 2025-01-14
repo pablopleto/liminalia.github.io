@@ -69,10 +69,11 @@ El significado de la palabra ha mutado desde el siglo XX hasta la actualidad; ho
         </div>
 
       </div>
-      <p className="text-xs italic">(1.)</p>
-      <p className="text-sm mb-4 italic"> Se refiere a aquellas personas que pasan una cantidad significativa de tiempo en internet, al punto de que su personalidad gira en torno a los memes, la cultura y el léxico de internet.. Keyhole. (n.d.). Chronically Online: What does it mean? Keyhole. <a className="text-#ff0000" href="https://keyhole.co/social-media-glossary/chronically-online/">https://keyhole.co/social-media-glossary/chronically-online/</a>
-
-</p>
+      <p className="text-xs italic font-bold">(1.)</p>
+      <p className="text-sm mb-4 italic"> Se refiere a aquellas personas que pasan una cantidad significativa de tiempo en internet, al punto de que su personalidad gira en torno a los memes, la cultura y el léxico de internet.. Keyhole. (n.d.). Chronically Online: What does it mean? Keyhole. <a className="text-#ff0000" href="https://keyhole.co/social-media-glossary/chronically-online/">https://keyhole.co/social-media-glossary/chronically-online/</a></p>
+      <p className="mb-8 mt-8 text-sm text-red"> <span className="font-bold">Citas: </span>
+Dawkins, R. (1976). El gen egoísta [The Selfish Gene]. Oxford University Press.
+Tanni, V. (2021). Memestética: La estética en la era de la reproducción digital. Turner.</p>
     </section>
   );
 }
